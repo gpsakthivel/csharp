@@ -1,0 +1,15 @@
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\bin\Debug\net8.0\Giraffe1.exe
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\bin\Debug\net8.0\Giraffe1.deps.json
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\bin\Debug\net8.0\Giraffe1.runtimeconfig.json
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\bin\Debug\net8.0\Giraffe1.dll
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\bin\Debug\net8.0\Giraffe1.pdb
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\obj\Debug\net8.0\Giraffe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\obj\Debug\net8.0\Giraffe1.AssemblyInfoInputs.cache
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\obj\Debug\net8.0\Giraffe1.AssemblyInfo.cs
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\obj\Debug\net8.0\Giraffe1.csproj.CoreCompileInputs.cache
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\obj\Debug\net8.0\Giraffe1.sourcelink.json
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\obj\Debug\net8.0\Giraffe1.dll
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\obj\Debug\net8.0\refint\Giraffe1.dll
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\obj\Debug\net8.0\Giraffe1.pdb
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\obj\Debug\net8.0\Giraffe1.genruntimeconfig.cache
+C:\Users\palanisa\Downloads\learn\csharp\Giraffe1\obj\Debug\net8.0\ref\Giraffe1.dll
